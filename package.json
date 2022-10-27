@@ -16,6 +16,11 @@
     "cordova-android",
     "cordova-ios"
   ],
+  "repository": "https://github.com/teslontechnologies/cordova-plugin-photoviewer",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Dileep R",
   "scripts": {
     "build": "tsc"
   },
